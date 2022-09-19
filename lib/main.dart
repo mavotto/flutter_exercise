@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.red,
           foregroundColor: Colors.black,
         )),
-        home: RandomWords());
+        home: const RandomWords());
   }
 }
 
